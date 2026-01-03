@@ -15,7 +15,7 @@
         "tunnel",
         "security"
     ],
-    "icon": "brand-wire",
+    "icon": "https://www.svgrepo.com/show/520310/wireguard.svg",
     "features": [
         "Multi-instance VPN management",
         "Client QR code generation",
