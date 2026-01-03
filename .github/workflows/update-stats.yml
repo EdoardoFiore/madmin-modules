@@ -8,6 +8,9 @@ on:
     paths:
       - 'modules/*.json'
 
+permissions:
+  contents: write
+
 jobs:
   update-registry:
     runs-on: ubuntu-latest
