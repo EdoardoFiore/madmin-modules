@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-03T12:26:05.790683Z",
+  "generated_at": "2026-01-03T15:02:32.883067Z",
   "modules": [
     {
       "id": "wireguard",
@@ -38,7 +38,7 @@
         "min_madmin_version": "2.0.0"
       },
       "verified": true,
-      "stars": 0,
+      "stars": 1,
       "updated_at": "2026-01-03T11:56:22Z",
       "version": "0.0.0",
       "downloads": 0
