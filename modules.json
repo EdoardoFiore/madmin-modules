@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-03T15:10:06.611980Z",
+  "generated_at": "2026-01-03T15:12:18.342831Z",
   "modules": [
     {
       "id": "wireguard",
@@ -35,7 +35,7 @@
           "ubuntu-24.04",
           "debian-12"
         ],
-        "min_madmin_version": "2.0.0"
+        "min_madmin_version": "1.0.0"
       },
       "verified": true,
       "stars": 1,
