@@ -35,12 +35,12 @@
           "ubuntu-24.04",
           "debian-12"
         ],
-        "min_madmin_version": "2.0.0"
+        "min_madmin_version": "1.0.0"
       },
       "verified": true,
       "stars": 1,
       "updated_at": "2026-01-03T11:56:22Z",
-      "version": "0.0.0",
+      "version": "1.0.1",
       "downloads": 0
     }
   ]
