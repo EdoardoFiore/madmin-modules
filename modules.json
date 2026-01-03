@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-03T15:12:18.342831Z",
+  "generated_at": "2026-01-03T18:19:35.454444Z",
   "modules": [
     {
       "id": "wireguard",
@@ -39,7 +39,7 @@
       },
       "verified": true,
       "stars": 1,
-      "updated_at": "2026-01-03T11:56:22Z",
+      "updated_at": "2026-01-03T18:11:53Z",
       "version": "0.0.0",
       "downloads": 0
     }
