@@ -1,6 +1,6 @@
 # MADMIN Modules Registry
 
-Official registry of modules available for [MADMIN](https://github.com/EdoardoFiore/VPNManager).
+Official registry of modules available for [MADMIN](https://github.com/EdoardoFiore/madmin).
 
 ## For Users
 
