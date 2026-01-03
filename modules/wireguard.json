@@ -1,0 +1,37 @@
+{
+    "id": "wireguard",
+    "name": "WireGuard VPN",
+    "description": "Complete WireGuard VPN management with multi-instance support, client provisioning, QR codes, email sharing, and firewall groups",
+    "repository": "https://github.com/EdoardoFiore/madmin-wireguard",
+    "author": {
+        "name": "MADMIN Team",
+        "email": "info@madmin.io",
+        "url": "https://github.com/EdoardoFiore"
+    },
+    "category": "networking",
+    "tags": [
+        "vpn",
+        "wireguard",
+        "tunnel",
+        "security"
+    ],
+    "icon": "brand-wire",
+    "features": [
+        "Multi-instance VPN management",
+        "Client QR code generation",
+        "Email config sharing with magic links",
+        "Firewall groups with per-client rules",
+        "Real-time connection status",
+        "Traffic statistics"
+    ],
+    "screenshots": [],
+    "requirements": {
+        "os": [
+            "ubuntu-22.04",
+            "ubuntu-24.04",
+            "debian-12"
+        ],
+        "min_madmin_version": "2.0.0"
+    },
+    "verified": true
+}
