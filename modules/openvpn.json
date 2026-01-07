@@ -1,0 +1,43 @@
+{
+    "id": "openvpn",
+    "name": "OpenVPN Manager",
+    "description": "OpenVPN server and client management with full PKI, certificate generation/renewal, multi-instance support, and firewall groups",
+    "repository": "https://github.com/EdoardoFiore/madmin-openvpn",
+    "author": {
+        "name": "MADMIN Team",
+        "email": "info@madmin.io",
+        "url": "https://github.com/EdoardoFiore"
+    },
+    "category": "networking",
+    "tags": [
+        "vpn",
+        "openvpn",
+        "pki",
+        "certificates",
+        "tunnel",
+        "security"
+    ],
+    "icon": "https://www.svgrepo.com/show/331565/openvpn.svg",
+    "features": [
+        "Multi-instance VPN management",
+        "Full PKI with CA, server and client certificates",
+        "Certificate renewal (server + client)",
+        "CRL (Certificate Revocation List) management",
+        "Client QR code with magic links",
+        "Email config sharing",
+        "Firewall groups with per-client rules",
+        "Static IP assignment via CCD",
+        "Full/Split tunnel modes",
+        "TCP and UDP support"
+    ],
+    "screenshots": [],
+    "requirements": {
+        "os": [
+            "ubuntu-22.04",
+            "ubuntu-24.04",
+            "debian-12"
+        ],
+        "min_madmin_version": "1.0.0"
+    },
+    "verified": true
+}
