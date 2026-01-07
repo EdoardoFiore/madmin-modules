@@ -17,7 +17,7 @@
         "tunnel",
         "security"
     ],
-    "icon": "https://www.svgrepo.com/show/331565/openvpn.svg",
+    "icon": "https://www.svgrepo.com/show/504696/openvpn.svg",
     "features": [
         "Multi-instance VPN management",
         "Full PKI with CA, server and client certificates",
