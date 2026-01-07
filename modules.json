@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-07T21:59:35.150874Z",
+  "generated_at": "2026-01-07T22:21:38.884696Z",
   "modules": [
     {
       "id": "openvpn",
@@ -46,11 +46,12 @@
       "verified": true,
       "version": "0.1.0",
       "stars": 0,
-      "downloads": 0,
+      "downloads": 2,
       "changelog": {
+        "v0.1.1": "## OpenVPN Manager v0.1.1\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.1.0...v0.1.1",
         "v0.1.0": "## OpenVPN Manager v0.1.0\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/commits/v0.1.0"
       },
-      "updated_at": "2026-01-07T21:52:01Z"
+      "updated_at": "2026-01-07T22:15:04Z"
     },
     {
       "id": "wireguard",
