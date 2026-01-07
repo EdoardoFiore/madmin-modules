@@ -1,53 +1,11 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-07T18:22:08.490273Z",
+  "generated_at": "2026-01-07T22:21:38.884696Z",
   "modules": [
-    {
-      "id": "wireguard",
-      "name": "WireGuard VPN",
-      "description": "WireGuard VPN instance and client management with firewall groups",
-      "repository": "https://github.com/EdoardoFiore/madmin-wireguard",
-      "author": {
-        "name": "MADMIN Team",
-        "email": "info@madmin.io",
-        "url": "https://github.com/EdoardoFiore"
-      },
-      "category": "networking",
-      "tags": [
-        "vpn",
-        "wireguard",
-        "tunnel",
-        "security"
-      ],
-      "icon": "https://www.svgrepo.com/show/520310/wireguard.svg",
-      "features": [
-        "Multi-instance VPN management",
-        "Client QR code generation",
-        "Email config sharing with magic links",
-        "Firewall groups with per-client rules",
-        "Real-time connection status",
-        "Traffic statistics"
-      ],
-      "screenshots": [],
-      "requirements": {
-        "os": [
-          "ubuntu-22.04",
-          "ubuntu-24.04",
-          "debian-12"
-        ],
-        "min_madmin_version": "1.0.0"
-      },
-      "verified": true,
-      "version": "1.1.0",
-      "stars": 1,
-      "updated_at": "2026-01-03T18:49:49Z",
-      "version": "0.0.0",
-      "downloads": 0
-    },
     {
       "id": "openvpn",
       "name": "OpenVPN Manager",
-      "description": "OpenVPN server and client management with full PKI, certificate generation/renewal, multi-instance support, and firewall groups",
+      "description": "OpenVPN server and client management with PKI, certificate generation, and multi-instance support",
       "repository": "https://github.com/EdoardoFiore/madmin-openvpn",
       "author": {
         "name": "MADMIN Team",
@@ -86,10 +44,59 @@
         "min_madmin_version": "1.0.0"
       },
       "verified": true,
-      "stars": 0,
-      "updated_at": "2026-01-07T22:54:00Z",
       "version": "0.1.0",
-      "downloads": 0
+      "stars": 0,
+      "downloads": 2,
+      "changelog": {
+        "v0.1.1": "## OpenVPN Manager v0.1.1\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.1.0...v0.1.1",
+        "v0.1.0": "## OpenVPN Manager v0.1.0\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/commits/v0.1.0"
+      },
+      "updated_at": "2026-01-07T22:15:04Z"
+    },
+    {
+      "id": "wireguard",
+      "name": "WireGuard VPN",
+      "description": "WireGuard VPN instance and client management with firewall groups",
+      "repository": "https://github.com/EdoardoFiore/madmin-wireguard",
+      "author": {
+        "name": "MADMIN Team",
+        "email": "info@madmin.io",
+        "url": "https://github.com/EdoardoFiore"
+      },
+      "category": "networking",
+      "tags": [
+        "vpn",
+        "wireguard",
+        "tunnel",
+        "security"
+      ],
+      "icon": "https://www.svgrepo.com/show/520310/wireguard.svg",
+      "features": [
+        "Multi-instance VPN management",
+        "Client QR code generation",
+        "Email config sharing with magic links",
+        "Firewall groups with per-client rules",
+        "Real-time connection status",
+        "Traffic statistics"
+      ],
+      "screenshots": [],
+      "requirements": {
+        "os": [
+          "ubuntu-22.04",
+          "ubuntu-24.04",
+          "debian-12"
+        ],
+        "min_madmin_version": "1.0.0"
+      },
+      "verified": true,
+      "version": "1.1.0",
+      "stars": 1,
+      "downloads": 3,
+      "changelog": {
+        "v1.1.0": "## WireGuard VPN v1.1.0\n\nWireGuard VPN instance and client management with firewall groups\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.0.8...v1.1.0",
+        "v1.0.8": "## WireGuard VPN v1.0.8\n\nWireGuard VPN instance and client management with firewall groups\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.0.7...v1.0.8"
+      },
+      "updated_at": "2026-01-06T21:56:34Z"
     }
   ]
 }
