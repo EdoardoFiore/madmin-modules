@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-10T18:20:09.800674Z",
+  "generated_at": "2026-01-10T18:41:09.400136Z",
   "modules": [
     {
       "id": "openvpn",
@@ -44,16 +44,17 @@
         "min_madmin_version": "1.0.0"
       },
       "verified": true,
-      "version": "0.2.0",
+      "version": "0.3.0",
       "stars": 0,
       "downloads": 8,
       "changelog": {
+        "v0.3.0": "## OpenVPN Manager v0.3.0\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.2.0...v0.3.0",
         "v0.2.0": "## OpenVPN Manager v0.2.0\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.1.2...v0.2.0",
         "v0.1.2": "## OpenVPN Manager v0.1.2\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.1.1...v0.1.2",
         "v0.1.1": "## OpenVPN Manager v0.1.1\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.1.0...v0.1.1",
         "v0.1.0": "## OpenVPN Manager v0.1.0\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/commits/v0.1.0"
       },
-      "updated_at": "2026-01-10T14:57:05Z"
+      "updated_at": "2026-01-10T18:32:54Z"
     },
     {
       "id": "wireguard",
