@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-10T14:59:54.275418Z",
+  "generated_at": "2026-01-10T18:20:09.800674Z",
   "modules": [
     {
       "id": "openvpn",
@@ -46,7 +46,7 @@
       "verified": true,
       "version": "0.2.0",
       "stars": 0,
-      "downloads": 6,
+      "downloads": 8,
       "changelog": {
         "v0.2.0": "## OpenVPN Manager v0.2.0\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.1.2...v0.2.0",
         "v0.1.2": "## OpenVPN Manager v0.1.2\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.1.1...v0.1.2",
