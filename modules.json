@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-07T22:21:38.884696Z",
+  "generated_at": "2026-01-11T18:19:52.200309Z",
   "modules": [
     {
       "id": "openvpn",
@@ -44,14 +44,17 @@
         "min_madmin_version": "1.0.0"
       },
       "verified": true,
-      "version": "0.1.0",
-      "stars": 0,
-      "downloads": 2,
+      "version": "1.0.0",
+      "stars": 1,
+      "downloads": 13,
       "changelog": {
-        "v0.1.1": "## OpenVPN Manager v0.1.1\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.1.0...v0.1.1",
-        "v0.1.0": "## OpenVPN Manager v0.1.0\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/commits/v0.1.0"
+        "v1.0.0": "## OpenVPN Manager v1.0.0\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.3.1...v1.0.0",
+        "v0.3.1": "## OpenVPN Manager v0.3.1\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.3.0...v0.3.1",
+        "v0.3.0": "## OpenVPN Manager v0.3.0\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.2.0...v0.3.0",
+        "v0.2.0": "## OpenVPN Manager v0.2.0\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.1.2...v0.2.0",
+        "v0.1.2": "## OpenVPN Manager v0.1.2\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.1.1...v0.1.2"
       },
-      "updated_at": "2026-01-07T22:15:04Z"
+      "updated_at": "2026-01-11T17:46:27Z"
     },
     {
       "id": "wireguard",
@@ -89,12 +92,15 @@
         "min_madmin_version": "1.0.0"
       },
       "verified": true,
-      "version": "1.1.0",
+      "version": "1.2.0",
       "stars": 1,
-      "downloads": 3,
+      "downloads": 10,
       "changelog": {
-        "v1.1.0": "## WireGuard VPN v1.1.0\n\nWireGuard VPN instance and client management with firewall groups\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.0.8...v1.1.0",
-        "v1.0.8": "## WireGuard VPN v1.0.8\n\nWireGuard VPN instance and client management with firewall groups\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.0.7...v1.0.8"
+        "v1.2.0": "## WireGuard VPN v1.2.0\n\nWireGuard VPN instance and client management with firewall groups\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.1.4...v1.2.0",
+        "v1.1.4": "## WireGuard VPN v1.1.4\n\nWireGuard VPN instance and client management with firewall groups\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.1.3...v1.1.4",
+        "v1.1.3": "## WireGuard VPN v1.1.3\n\nWireGuard VPN instance and client management with firewall groups\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.1.2...v1.1.3",
+        "v1.1.2": "## WireGuard VPN v1.1.2\n\nWireGuard VPN instance and client management with firewall groups\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.1.1...v1.1.2",
+        "v1.1.1": "## WireGuard VPN v1.1.1\n\nWireGuard VPN instance and client management with firewall groups\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.1.0...v1.1.1"
       },
       "updated_at": "2026-01-06T21:56:34Z"
     },
