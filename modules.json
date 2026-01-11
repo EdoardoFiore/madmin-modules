@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-11T18:19:52.200309Z",
+  "generated_at": "2026-01-11T20:07:39.009510Z",
   "modules": [
     {
       "id": "openvpn",
@@ -57,6 +57,52 @@
       "updated_at": "2026-01-11T17:46:27Z"
     },
     {
+      "id": "strongswan",
+      "name": "IPsec VPN Manager",
+      "description": "Site-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration",
+      "repository": "https://github.com/EdoardoFiore/madmin-strongswan",
+      "author": {
+        "name": "MADMIN Team",
+        "email": "info@madmin.io",
+        "url": "https://github.com/EdoardoFiore"
+      },
+      "category": "networking",
+      "tags": [
+        "vpn",
+        "ipsec",
+        "strongswan",
+        "site-to-site",
+        "ikev2",
+        "tunnel",
+        "security"
+      ],
+      "icon": "https://www.svgrepo.com/show/306809/strongswan.svg",
+      "features": [
+        "Multiple Site-to-Site tunnels",
+        "Multiple Phase 2 (Child SA) per tunnel",
+        "IKEv1 and IKEv2 support",
+        "Real-time tunnel status via VICI API",
+        "Automatic firewall rules",
+        "FortiGate-style UI",
+        "Pre-Shared Key authentication",
+        "Configurable DPD and NAT-T"
+      ],
+      "screenshots": [],
+      "requirements": {
+        "os": [
+          "ubuntu-22.04",
+          "ubuntu-24.04",
+          "debian-12"
+        ],
+        "min_madmin_version": "1.0.0"
+      },
+      "verified": true,
+      "version": "0.1.0",
+      "stars": 0,
+      "updated_at": "2026-01-06T17:53:45Z",
+      "downloads": 0
+    },
+    {
       "id": "wireguard",
       "name": "WireGuard VPN",
       "description": "WireGuard VPN instance and client management with firewall groups",
@@ -102,56 +148,7 @@
         "v1.1.2": "## WireGuard VPN v1.1.2\n\nWireGuard VPN instance and client management with firewall groups\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.1.1...v1.1.2",
         "v1.1.1": "## WireGuard VPN v1.1.1\n\nWireGuard VPN instance and client management with firewall groups\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.1.0...v1.1.1"
       },
-      "updated_at": "2026-01-06T21:56:34Z"
-    },
-    {
-      "id": "strongswan",
-      "name": "IPsec VPN Manager",
-      "description": "Site-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration",
-      "repository": "https://github.com/EdoardoFiore/madmin-strongswan",
-      "author": {
-        "name": "MADMIN Team",
-        "email": "info@madmin.io",
-        "url": "https://github.com/EdoardoFiore"
-      },
-      "category": "networking",
-      "tags": [
-        "vpn",
-        "ipsec",
-        "strongswan",
-        "site-to-site",
-        "ikev2",
-        "tunnel",
-        "security"
-      ],
-      "icon": "https://www.svgrepo.com/show/306809/strongswan.svg",
-      "features": [
-        "Multiple Site-to-Site tunnels",
-        "Multiple Phase 2 (Child SA) per tunnel",
-        "IKEv1 and IKEv2 support",
-        "Real-time tunnel status via VICI API",
-        "Automatic firewall rules",
-        "FortiGate-style UI",
-        "Pre-Shared Key authentication",
-        "Configurable DPD and NAT-T"
-      ],
-      "screenshots": [],
-      "requirements": {
-        "os": [
-          "ubuntu-22.04",
-          "ubuntu-24.04",
-          "debian-12"
-        ],
-        "min_madmin_version": "1.0.0"
-      },
-      "verified": true,
-      "version": "0.1.0",
-      "stars": 0,
-      "downloads": 0,
-      "changelog": {
-        "v0.1.0": "## IPsec VPN Manager v0.1.0\n\n Madmin IPsec VPN Manager module.\n\n### Features\n- Site-to-Site IPsec tunnel management\n- Multiple Phase 2 (Child SA) support\n- IKEv1/IKEv2 support\n- VICI API integration for real-time status\n- Automatic firewall rules\n\n### Installation\nInstall directly from the MADMIN Module Store.\n\n---\n*Initial release*"
-      },
-      "updated_at": "2026-01-11T21:03:00Z"
+      "updated_at": "2026-01-11T17:45:23Z"
     }
   ]
 }
