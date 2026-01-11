@@ -1,0 +1,42 @@
+{
+    "id": "strongswan",
+    "name": "IPsec VPN Manager",
+    "description": "Site-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration",
+    "repository": "https://github.com/EdoardoFiore/madmin-strongswan",
+    "author": {
+        "name": "MADMIN Team",
+        "email": "info@madmin.io",
+        "url": "https://github.com/EdoardoFiore"
+    },
+    "category": "networking",
+    "tags": [
+        "vpn",
+        "ipsec",
+        "strongswan",
+        "site-to-site",
+        "ikev2",
+        "tunnel",
+        "security"
+    ],
+    "icon": "https://www.svgrepo.com/show/306809/strongswan.svg",
+    "features": [
+        "Multiple Site-to-Site tunnels",
+        "Multiple Phase 2 (Child SA) per tunnel",
+        "IKEv1 and IKEv2 support",
+        "Real-time tunnel status via VICI API",
+        "Automatic firewall rules",
+        "FortiGate-style UI",
+        "Pre-Shared Key authentication",
+        "Configurable DPD and NAT-T"
+    ],
+    "screenshots": [],
+    "requirements": {
+        "os": [
+            "ubuntu-22.04",
+            "ubuntu-24.04",
+            "debian-12"
+        ],
+        "min_madmin_version": "1.0.0"
+    },
+    "verified": true
+}
