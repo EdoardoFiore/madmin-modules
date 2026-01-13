@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-13T06:23:27.672733Z",
+  "generated_at": "2026-01-13T12:31:09.922974Z",
   "modules": [
     {
       "id": "openvpn",
@@ -99,7 +99,7 @@
       "verified": true,
       "version": "0.1.0",
       "stars": 0,
-      "downloads": 2,
+      "downloads": 3,
       "changelog": {
         "v0.1.0": "## IPsec VPN Manager v0.1.0\n\nSite-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-strongswan/commits/v0.1.0"
       },
@@ -143,7 +143,7 @@
       "verified": true,
       "version": "1.2.1",
       "stars": 1,
-      "downloads": 12,
+      "downloads": 13,
       "changelog": {
         "v1.2.1": "## WireGuard VPN v1.2.1\n\nWireGuard VPN instance and client management with firewall groups and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.2.0...v1.2.1",
         "v1.2.0": "## WireGuard VPN v1.2.0\n\nWireGuard VPN instance and client management with firewall groups\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.1.4...v1.2.0",
