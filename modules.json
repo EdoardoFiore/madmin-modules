@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-13T18:23:21.387645Z",
+  "generated_at": "2026-01-14T01:10:47.381077Z",
   "modules": [
     {
       "id": "openvpn",
@@ -143,7 +143,7 @@
       "verified": true,
       "version": "1.2.1",
       "stars": 1,
-      "downloads": 13,
+      "downloads": 14,
       "changelog": {
         "v1.2.1": "## WireGuard VPN v1.2.1\n\nWireGuard VPN instance and client management with firewall groups and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.2.0...v1.2.1",
         "v1.2.0": "## WireGuard VPN v1.2.0\n\nWireGuard VPN instance and client management with firewall groups\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.1.4...v1.2.0",
