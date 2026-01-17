@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-01-17T15:55:07.547100Z",
+  "generated_at": "2026-01-17T16:04:18.150508Z",
   "modules": [
     {
       "id": "openvpn",
@@ -97,17 +97,17 @@
         "min_madmin_version": "1.0.0"
       },
       "verified": true,
-      "version": "0.4.3",
+      "version": "0.4.5",
       "stars": 0,
       "downloads": 9,
       "changelog": {
+        "v0.4.4": "## IPsec VPN Manager v0.4.4\n\nSite-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-strongswan/compare/v0.4.3...v0.4.4",
         "v0.4.3": "## IPsec VPN Manager v0.4.3\n\nSite-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-strongswan/compare/v0.4.0...v0.4.3",
         "v0.4.0": "## IPsec VPN Manager v0.4.0\n\nSite-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-strongswan/compare/v0.3.0...v0.4.0",
         "v0.3.0": "## IPsec VPN Manager v0.3.0\n\nSite-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-strongswan/compare/v0.2.0...v0.3.0",
-        "v0.2.0": "## IPsec VPN Manager v0.2.0\n\nSite-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-strongswan/compare/v0.1.0...v0.2.0",
-        "v0.1.0": "## IPsec VPN Manager v0.1.0\n\nSite-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-strongswan/commits/v0.1.0"
+        "v0.2.0": "## IPsec VPN Manager v0.2.0\n\nSite-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-strongswan/compare/v0.1.0...v0.2.0"
       },
-      "updated_at": "2026-01-17T15:54:24Z"
+      "updated_at": "2026-01-17T16:03:08Z"
     },
     {
       "id": "wireguard",
