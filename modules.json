@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-03T18:45:12.478923Z",
+  "generated_at": "2026-02-03T21:35:33.991469Z",
   "modules": [
     {
       "id": "openvpn",
@@ -44,17 +44,17 @@
         "min_madmin_version": "1.0.0"
       },
       "verified": true,
-      "version": "1.0.0",
+      "version": "1.1.0",
       "stars": 1,
-      "downloads": 16,
+      "downloads": 17,
       "changelog": {
+        "v1.1.0": "## OpenVPN Manager v1.1.0\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v1.0.0...v1.1.0",
         "v1.0.0": "## OpenVPN Manager v1.0.0\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.3.1...v1.0.0",
         "v0.3.1": "## OpenVPN Manager v0.3.1\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.3.0...v0.3.1",
         "v0.3.0": "## OpenVPN Manager v0.3.0\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.2.0...v0.3.0",
-        "v0.2.0": "## OpenVPN Manager v0.2.0\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.1.2...v0.2.0",
-        "v0.1.2": "## OpenVPN Manager v0.1.2\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.1.1...v0.1.2"
+        "v0.2.0": "## OpenVPN Manager v0.2.0\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v0.1.2...v0.2.0"
       },
-      "updated_at": "2026-01-11T17:46:27Z"
+      "updated_at": "2026-02-03T21:32:09Z"
     },
     {
       "id": "strongswan",
@@ -97,17 +97,17 @@
         "min_madmin_version": "1.0.0"
       },
       "verified": true,
-      "version": "1.0.2",
+      "version": "1.0.3",
       "stars": 1,
-      "downloads": 24,
+      "downloads": 25,
       "changelog": {
+        "v1.0.3": "## IPsec VPN Manager v1.0.3\n\nSite-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-strongswan/compare/v1.0.2...v1.0.3",
         "v1.0.2": "## IPsec VPN Manager v1.0.2\n\nSite-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-strongswan/compare/v1.0.1...v1.0.2",
         "v1.0.1": "## IPsec VPN Manager v1.0.1\n\nSite-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-strongswan/compare/v1.0.0...v1.0.1",
         "v1.0.0": "## IPsec VPN Manager v1.0.0\n\nSite-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-strongswan/compare/v0.5.1...v1.0.0",
-        "v0.5.1": "## IPsec VPN Manager v0.5.1\n\nSite-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-strongswan/compare/v0.5.0...v0.5.1",
-        "v0.5.0": "## IPsec VPN Manager v0.5.0\n\nSite-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-strongswan/compare/v0.4.10...v0.5.0"
+        "v0.5.1": "## IPsec VPN Manager v0.5.1\n\nSite-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-strongswan/compare/v0.5.0...v0.5.1"
       },
-      "updated_at": "2026-01-25T10:06:57Z"
+      "updated_at": "2026-02-03T19:53:49Z"
     },
     {
       "id": "wireguard",
@@ -145,17 +145,17 @@
         "min_madmin_version": "1.0.0"
       },
       "verified": true,
-      "version": "1.3.0",
+      "version": "1.3.2",
       "stars": 1,
-      "downloads": 18,
+      "downloads": 19,
       "changelog": {
+        "v1.3.2": "## WireGuard VPN v1.3.2\n\nWireGuard VPN instance and client management with firewall groups and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.3.1...v1.3.2",
+        "v1.3.1": "## WireGuard VPN v1.3.1\n\nWireGuard VPN instance and client management with firewall groups and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.3.0...v1.3.1",
         "v1.3.0": "## WireGuard VPN v1.3.0\n\nWireGuard VPN instance and client management with firewall groups and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.2.1...v1.3.0",
         "v1.2.1": "## WireGuard VPN v1.2.1\n\nWireGuard VPN instance and client management with firewall groups and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.2.0...v1.2.1",
-        "v1.2.0": "## WireGuard VPN v1.2.0\n\nWireGuard VPN instance and client management with firewall groups\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.1.4...v1.2.0",
-        "v1.1.4": "## WireGuard VPN v1.1.4\n\nWireGuard VPN instance and client management with firewall groups\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.1.3...v1.1.4",
-        "v1.1.3": "## WireGuard VPN v1.1.3\n\nWireGuard VPN instance and client management with firewall groups\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.1.2...v1.1.3"
+        "v1.2.0": "## WireGuard VPN v1.2.0\n\nWireGuard VPN instance and client management with firewall groups\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-wireguard/compare/v1.1.4...v1.2.0"
       },
-      "updated_at": "2026-02-01T21:19:32Z"
+      "updated_at": "2026-02-03T21:30:44Z"
     }
   ]
 }
