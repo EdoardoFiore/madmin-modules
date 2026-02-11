@@ -1,0 +1,37 @@
+{
+    "id": "dhcp",
+    "name": "DHCP Server",
+    "description": "ISC DHCP server management with multi-interface subnets, pools, static reservations and live lease monitoring",
+    "repository": "https://github.com/EdoardoFiore/madmin-dhcp",
+    "author": {
+        "name": "MADMIN Team",
+        "email": "info@madmin.io",
+        "url": "https://github.com/EdoardoFiore"
+    },
+    "category": "networking",
+    "tags": [
+        "dhcp",
+        "networking",
+        "isc-dhcp-server",
+        "ip-management"
+    ],
+    "icon": "ti-affiliate",
+    "features": [
+        "Multi-interface subnet management",
+        "Static MAC-to-IP reservations",
+        "Live lease monitoring",
+        "Config validation before apply",
+        "Custom DHCP options (global & per-subnet)",
+        "Service start/stop/restart from UI"
+    ],
+    "screenshots": [],
+    "requirements": {
+        "os": [
+            "ubuntu-22.04",
+            "ubuntu-24.04",
+            "debian-12"
+        ],
+        "min_madmin_version": "1.0.0"
+    },
+    "verified": true
+}
