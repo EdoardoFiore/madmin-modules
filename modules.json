@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-11T14:31:43.045824Z",
+  "generated_at": "2026-02-11T14:41:55.789752Z",
   "modules": [
     {
       "id": "dhcp",
@@ -38,13 +38,14 @@
         "min_madmin_version": "1.0.0"
       },
       "verified": true,
-      "version": "0.1.1",
-      "stars": 0,
+      "version": "1.0.0",
+      "stars": 1,
       "downloads": 1,
       "changelog": {
+        "v1.0.0": "## DHCP Server v1.0.0\n\nISC DHCP server management with multi-interface subnets, pools, static reservations and live lease monitoring\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-dhcp/compare/v0.1.1...v1.0.0",
         "v0.1.1": "## DHCP Server v0.1.1\n\nISC DHCP server management with multi-interface subnets, pools, static reservations and live lease monitoring\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-dhcp/compare/v0.1.0...v0.1.1"
       },
-      "updated_at": "2026-02-11T12:47:22Z"
+      "updated_at": "2026-02-11T14:40:41Z"
     },
     {
       "id": "openvpn",
