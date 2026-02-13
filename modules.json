@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-13T12:40:15.204305Z",
+  "generated_at": "2026-02-13T18:36:30.984670Z",
   "modules": [
     {
       "id": "dhcp",
@@ -92,7 +92,7 @@
       "verified": true,
       "version": "1.1.1",
       "stars": 1,
-      "downloads": 20,
+      "downloads": 21,
       "changelog": {
         "v1.1.1": "## OpenVPN Manager v1.1.1\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v1.1.0...v1.1.1",
         "v1.1.0": "## OpenVPN Manager v1.1.0\n\nOpenVPN server and client management with PKI, certificate generation, and multi-instance support\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-openvpn/compare/v1.0.0...v1.1.0",
