@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-02-13T18:36:30.984670Z",
+  "generated_at": "2026-02-14T01:19:55.149202Z",
   "modules": [
     {
       "id": "dhcp",
@@ -40,7 +40,7 @@
       "verified": true,
       "version": "1.0.1",
       "stars": 1,
-      "downloads": 4,
+      "downloads": 5,
       "changelog": {
         "v1.0.1": "## DHCP Server v1.0.1\n\nISC DHCP server management with multi-interface subnets, pools, static reservations and live lease monitoring\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-dhcp/compare/v1.0.0...v1.0.1",
         "v1.0.0": "## DHCP Server v1.0.0\n\nISC DHCP server management with multi-interface subnets, pools, static reservations and live lease monitoring\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-dhcp/compare/v0.1.1...v1.0.0",
