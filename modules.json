@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-14T01:52:37.024832Z",
+  "generated_at": "2026-04-14T07:20:09.520722Z",
   "modules": [
     {
       "id": "dhcp",
@@ -145,7 +145,7 @@
       "verified": true,
       "version": "1.0.4",
       "stars": 1,
-      "downloads": 37,
+      "downloads": 38,
       "changelog": {
         "v1.0.4": "## IPsec VPN Manager v1.0.4\n\nSite-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-strongswan/compare/v1.0.3...v1.0.4",
         "v1.0.3": "## IPsec VPN Manager v1.0.3\n\nSite-to-Site IPsec VPN management with strongSwan, IKEv1/IKEv2 support, and FortiGate-style configuration\n\n### Installation\nInstall directly from the MADMIN Module Store, or download the ZIP below.\n\n---\n*Auto-generated release*\n\n\n**Full Changelog**: https://github.com/EdoardoFiore/madmin-strongswan/compare/v1.0.2...v1.0.3",
